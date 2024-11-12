@@ -63,7 +63,7 @@ function Projects() {
               isBlog={false}
               title="Realone"
               description="Designed for RealEvo Datatek, this landing page highlights their mission to innovate in the real estate industry. It captures their vision of seamless property transactions, emphasizes their data-driven solutions, and showcases the expertise of their diverse team. Key elements include sections on smart property tools, data insights, and streamlined processes, all with a focus on innovation, transparency, accessibility, and sustainability."
-              // ghLink="https://movix-eta.vercel.app/"
+              ghLink={""}
               demoLink="https://www.realoneapp.com/"              
             />
           </Col>
